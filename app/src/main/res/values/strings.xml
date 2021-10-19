@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">AppFuture</string>
     <string name="hello_65apps">Hello 65apps!</string>
+    <string name="contact_list_title">Contact List</string>
+    <string name="contact_details_title">Contact Details</string>
+    <string name="emails_title">Emails</string>
+    <string name="phone_title">Phone Numbers</string>
+    <string name="description_title">Description</string>
+
 </resources>
